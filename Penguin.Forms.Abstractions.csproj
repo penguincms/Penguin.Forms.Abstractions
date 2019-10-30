@@ -5,5 +5,7 @@
     <PackageProjectUrl>https://github.com/penguincms/Penguin.Forms.Abstractions</PackageProjectUrl>
     <Version>1.0.0</Version>
     <Description>Not Available</Description>
+    <AssemblyName>Penguin.Forms.Abstractions</AssemblyName>
+    <RootNamespace>Penguin.Forms.Abstractions</RootNamespace>
   </PropertyGroup>
 </Project>
